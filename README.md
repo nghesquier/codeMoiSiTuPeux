@@ -10,7 +10,7 @@ Chaque dossier correspond aà un exercice et vous y trouverais un ficher README 
 
 Pour participer a un exercice, clonez ce repo, créez un nouveau dossier dans cet exercice et nommez le avec votre pseudo et mettez votre solution à l'interieur de celui-ci. Vous pouvez regarder ma solution à l'exercice FizzBuzz.
 
-![Screenshot](images/structure.png)
+![Screenshot](images/filestructure.png)
 
 Quand vous êtes satisfait par votre programme, créez une nouvelle branch, de préference en la nommant:
 
